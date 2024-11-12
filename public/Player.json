@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "ratings": 8.99,
+        "leftHandBat": "Right-Hand-Bat",
+        "price": 1500000,
+        "role": "Batsman",
+        "img": "https://www.hindustantimes.com/ht-img/img/2023/08/18/1600x900/kohli_71_1683829193033_1692354506172.webp",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+    },
+    {
+        "id": 2,
+        "name": "Joe Root",
+        "country": "England",
+        "ratings": 8.60,
+        "leftHandBat": "Left-Hand-Bat",
+        "price": 1300000,
+        "role": "All-rounder",
+        "img": "https://static.cricketaddictor.com/wp-content/uploads/2024/01/Image-48-1.jpg?q=80",
+        "flag": "https://media.istockphoto.com/id/880562092/vector/great-britain-united-kingdom-flag.jpg?s=612x612&w=0&k=20&c=z6Qg_O-2pIcreAK3Fb8X003h2HRIFiRWNT8cg7hDfFo="
+    },
+    {
+        "id": 3,
+        "name": "Steve Smith",
+        "country": "Australia",
+        "ratings": 9.17,
+        "leftHandBat": "Right-Hand-Bat",
+        "price": 1800000,
+        "role": "Batsman",
+        "img": "https://opt.toiimg.com/recuperator/img/toi/m-69415515/69415515.jpg",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+    },
+    {
+        "id": 4,
+        "name": "AB de Villiers",
+        "country": "South Africa",
+        "ratings": 9.12,
+        "leftHandBat": "Left-Hand-Bat",
+        "price": 1700000,
+        "role": "Batsman",
+        "img": "https://media.gettyimages.com/id/690026948/photo/london-england-ab-de-villiers-of-south-africa-poses-for-a-portrait-at-royal-garden-hotel-on.jpg?s=612x612&w=gi&k=20&c=c3fnAz69084UpoYEp3GgR2iushCF8f9GgPqLpWk_c-g=",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
+    },
+    {
+        "id": 5,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "ratings": 8.75,
+        "leftHandBat": "Right-Hand-Bat",
+        "price": 1400000,
+        "role": "Batsman",
+        "img": "https://trishulbook.com/wp-content/uploads/2023/10/Kane-Williamson-update.jpg",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1200px-Flag_of_New_Zealand.svg.png"
+    },
+    {
+        "id": 6,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "ratings": 8.00,
+        "leftHandBat": "Left-Hand-Bat",
+        "price": 1000000,
+        "role": "All-rounder",
+        "img": "https://wallpapers.com/images/hd/shakib-al-hasan-smiling-8olow941lckcha6b.jpg",
+        "flag": "https://media.istockphoto.com/id/1366452855/vector/bangladesh-national-flag-vektor-illustration.jpg?s=612x612&w=0&k=20&c=SPBIVX6ZwwpL7TELL-BJaL9lgq0e5WNZKooOhNNU9M8="
+    },
+    {
+        "id": 7,
+        "name": "Rohit Sharma",
+        "country": "India",
+        "ratings": 8.74,
+        "leftHandBat": "Left-Hand-Bat",
+        "price": 1550000,
+        "role": "Batsman",
+        "img": "https://opt.toiimg.com/recuperator/img/toi/m-69257289/69257289.jpg",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+    },
+    {
+        "id": 8,
+        "name": "David Warner",
+        "country": "Australia",
+        "ratings": 8.25,
+        "leftHandBat": "Left-Hand-Bat",
+        "price": 1200000,
+        "role": "Batsman",
+        "img": "https://crictoday.com/wp-content/uploads/2023/02/warner_player_of_the_tournamen_0_1200x768-1-1.jpg",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+    },
+    {
+        "id": 9,
+        "name": "Faf du Plessis",
+        "country": "South Africa",
+        "ratings": 8.60,
+        "leftHandBat": "Right-Hand-Bat",
+        "price": 1300000,
+        "role": "Batsman",
+        "img": "https://wallpapers.com/images/hd/south-africa-cricket-faf-du-plessis-3arltwomv1t1aavj.jpg",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
+    },
+    {
+        "id": 10,
+        "name": "Marnus Labuschagne",
+        "country": "Australia",
+        "ratings": 8.80,
+        "leftHandBat": "Right-Hand-Bat",
+        "price": 1250000,
+        "role": "All-rounder",
+        "img": "https://static.toiimg.com/thumb/msid-88068032,width-400,resizemode-4/88068032.jpg",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+    },
+    {
+        "id": 11,
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "ratings": 7.70,
+        "leftHandBat": "Left-Hand-Bat",
+        "price": 950000,
+        "role": "Batsman",
+        "img": "https://media.assettype.com/thequint%2F2023-07%2F5f61ceb8-2c58-4e96-ab09-e8472b27271e%2Fimage_2023_07_07_192134579.png?auto=format%2Ccompress&fmt=webp&width=720&w=1200",
+        "flag": "https://media.istockphoto.com/id/1366452855/vector/bangladesh-national-flag-vektor-illustration.jpg?s=612x612&w=0&k=20&c=SPBIVX6ZwwpL7TELL-BJaL9lgq0e5WNZKooOhNNU9M8="
+    },
+    {
+        "id": 12,
+        "name": "Ben Stokes",
+        "country": "England",
+        "ratings": 8.40,
+        "leftHandBat": "Right-Hand-Bat",
+        "price": 1400000,
+        "role": "All-rounder",
+        "img": "https://wallpapers.com/images/hd/ben-stokes-in-light-blue-uniform-4kjht8xstu2eveb2.jpg",
+        "flag": "https://media.istockphoto.com/id/880562092/vector/great-britain-united-kingdom-flag.jpg?s=612x612&w=0&k=20&c=z6Qg_O-2pIcreAK3Fb8X003h2HRIFiRWNT8cg7hDfFo="
+    }
+]
